@@ -1,0 +1,14 @@
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:47:10:WIZCHIP_WRITE	24	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:107:10:WIZCHIP_READ	24	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:168:10:WIZCHIP_WRITE_BUF	32	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:247:10:WIZCHIP_READ_BUF	40	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:326:10:getSn_TX_FSR	32	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:343:10:getSn_RX_RSR	32	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:362:10:getSn_RxBASE	24	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:376:10:getSn_TxBASE	24	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:400:6:wiz_send_data	32	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:442:6:wiz_recv_data	32	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:474:6:wiz_recv_ignore	32	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:484:6:wiz_mdio_write	16	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:493:10:wiz_mdio_read	24	static
+../Drivers/ioLibrary_Driver-master/Ethernet/W5100S/w5100s.c:501:6:wiz_delay_ms	32	static

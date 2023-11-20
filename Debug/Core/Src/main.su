@@ -1,0 +1,15 @@
+../Core/Src/main.c:106:6:_write	32	static
+../Core/Src/main.c:117:6:spiWriteByte	16	static
+../Core/Src/main.c:122:9:spiReadByte	16	static
+../Core/Src/main.c:129:6:spiWriteBurst	16	static
+../Core/Src/main.c:134:6:spiReadBurst	16	static
+../Core/Src/main.c:139:6:W5100SInitialze	16	static
+../Core/Src/main.c:186:5:main	16	static
+../Core/Src/main.c:257:6:SystemClock_Config	88	static
+../Core/Src/main.c:304:13:MX_SPI2_Init	8	static
+../Core/Src/main.c:342:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:375:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:406:13:MX_DMA_Init	16	static
+../Core/Src/main.c:427:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:470:6:print_network_information	32	static
+../Core/Src/main.c:489:6:Error_Handler	4	static,ignoring_inline_asm
